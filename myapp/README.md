@@ -1,3 +1,9 @@
+Svelte app created with documentation here: https://svelte.dev/docs
+
+Tutorial followed for the creation of this app is the following tutorial: https://fireship.io/lessons/svelte-v3-overview-firebase/
+as recommended on Ed:
+https://edstem.org/us/courses/36322/discussion/2453081
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
